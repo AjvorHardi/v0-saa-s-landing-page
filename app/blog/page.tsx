@@ -49,8 +49,8 @@ export default function BlogPage() {
       <main className="container mx-auto px-4 py-16">
         <div className="max-w-4xl mx-auto">
           <div className="mb-12 text-center">
-            <h1 className="text-4xl font-bold text-white mb-4">Travel Blog</h1>
-            <h2 className="text-5xl text-gray-400">Exploring the wonders of Latin America</h2>
+            <h1 className="text-6xl font-bold text-zinc-800 mb-4 text-left">Travel Blog</h1>
+            <h2 className="text-5xl text-gray-400 text-left">Exploring the wonders of Latin America</h2>
           </div>
 
           <div className="space-y-8">
