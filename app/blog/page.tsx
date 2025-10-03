@@ -50,7 +50,7 @@ export default function BlogPage() {
         <div className="max-w-4xl mx-auto">
           <div className="mb-12 text-center">
             <h1 className="text-4xl font-bold text-white mb-4">Travel Blog</h1>
-            <p className="text-lg text-gray-400">Exploring the wonders of Latin America</p>
+            <h2 className="text-5xl text-gray-400">Exploring the wonders of Latin America</h2>
           </div>
 
           <div className="space-y-8">
